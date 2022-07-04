@@ -7,7 +7,7 @@ No momento estudo HTML, CSS, JS, JAVA, PostgreSQL e futuramente React 📚
 <br>
 <div align="center">
 <a href="https://github.com/ArthurMacielOliveira">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ArthurMacielOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ArthurMacielOliveira&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMacielOliveira&layout=compact&langs_count=7&theme=tokyonight"/>
 
   <div style="display: inline_block" align="center"><br>
