@@ -1,4 +1,9 @@
-### Hi there 👋
+<div align = "center">
+<h1>Bem Vindo(a) ao meu GitHub!</h1>
+<ul>
+<li><p>Estou cursando o Ensino Médio Integrado – Técnico em Desenvolvimento de Sistemas no SESI/SENAI 💻 </p></li>
+<li>No momento estudo HTML, CSS, JS, JAVA, PostgreSQL e futuramente React 📚</li>
+</div>
 
 <div align="center">
 <a href="https://github.com/ArthurMacielOliveira">
