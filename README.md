@@ -1,8 +1,8 @@
 <div align = "center">
 <h1>Bem Vindo(a) ao meu GitHub!</h1>
-<ul>
-<li><p>Estou cursando o Ensino Médio Integrado – Técnico em Desenvolvimento de Sistemas no SESI/SENAI 💻 </p></li>
-<li>No momento estudo HTML, CSS, JS, JAVA, PostgreSQL e futuramente React 📚</li>
+<div align = "center">
+<p>Estou cursando o Ensino Médio Integrado – Técnico em Desenvolvimento de Sistemas no SESI/SENAI 💻 </p>
+No momento estudo HTML, CSS, JS, JAVA, PostgreSQL e futuramente React 📚
 </div>
 
 <div align="center">
