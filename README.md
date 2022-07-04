@@ -4,7 +4,7 @@
 <p>Estou cursando o Ensino Médio Integrado – Técnico em Desenvolvimento de Sistemas no SESI/SENAI 💻 </p>
 No momento estudo HTML, CSS, JS, JAVA, PostgreSQL e futuramente React 📚
 </div>
-
+<br>
 <div align="center">
 <a href="https://github.com/ArthurMacielOliveira">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ArthurMacielOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
