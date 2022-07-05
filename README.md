@@ -13,7 +13,7 @@ At the moment I study HTML, CSS, JS, JAVA, PostgreSQL and in the future i'll stu
 
   <div style="display: inline_block" align="center"><br>
   <img align="left" alt="Arthur-HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="left" alt="Arthur-HTML" height="45" width="55" src="https://icongr.am/devicon/javascript-plainsvg?size=128&color=currentColor">
+   <img align="left" alt="Arthur-JS" height="45" width="55" src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=currentColor">
   <img align="left" alt="Arthur-CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="left" alt="Arthur-BootStrap" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
  <img align="left" alt="Arthur-Spring" height="35" width="45" src="https://cdn.discordapp.com/attachments/933196017048887377/976967659285536779/Sem_nome_80_60_px.png" />
