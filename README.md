@@ -21,9 +21,9 @@ At the moment I study HTML, CSS, JS, JAVA, PostgreSQL and in the future i'll stu
   <img align="left" alt="Arthur-PostgreSQL" height="45" width="50" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=254fb1" />
 </div>
   
-<div align="center>
- 
-            <h1 font-size = "10px">Contact me!</h1>
+<div align="center">
+
+  <h1 font-size = "10px">Contact me!</h1>
 <a href = "mailto:oliveiraarthurmaciel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/arthur-maciel-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
