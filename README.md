@@ -8,8 +8,8 @@ At the moment I study HTML, CSS, JS, JAVA, PostgreSQL and in the future i'll stu
 <br>
 <div align="center">
 <a href="https://github.com/ArthurMacielOliveira">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ArthurMacielOliveira&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMacielOliveira&layout=compact&langs_count=7&theme=great-gatsby"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ArthurMoli&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMoli&layout=compact&langs_count=7&theme=great-gatsby"/>
 
   <div style="display: inline_block" align="center"><br>
     <img align="left" alt="Arthur-HTML" height="45" width="55" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=cc510f">
