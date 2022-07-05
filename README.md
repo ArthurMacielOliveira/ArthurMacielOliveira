@@ -3,7 +3,7 @@
 <div align = "center">
 <p>I'm attending Integrated High School - Systems Development Technician at SESI / SENAI 💻
 
-At the moment I study HTML, CSS, JS, JAVA, PostgreSQL and in the future React 📚</p>
+At the moment I study HTML, CSS, JS, JAVA, PostgreSQL and in the future i'll study React 📚</p>
 </div>
 <br>
 <div align="center">
