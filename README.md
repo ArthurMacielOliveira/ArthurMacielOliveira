@@ -23,7 +23,7 @@ At the moment I study HTML, CSS, JS, JAVA, PostgreSQL and in the future i'll stu
   
 <div align="center">
 
-  <h1 font-size = "10px">Contact me!</h1>
+  <p font-size = "10px">Contact me!</p>
 <a href = "mailto:oliveiraarthurmaciel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/arthur-maciel-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
